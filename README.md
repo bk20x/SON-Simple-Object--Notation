@@ -1,5 +1,5 @@
 # SON
-### Simple serialization format for lisp with seamless conversion to classes
+### Simple serialization format for lisp with conversion to classes
 ```
 
 (use-package :son)  ;;; or prefix exports with son:
@@ -113,6 +113,7 @@ CL-USER> (describe vec)
   
 )
 ```
+
 
 
 
