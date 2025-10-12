@@ -43,8 +43,7 @@
     (name: the_wrench_of_bob;
      item-type: WEAPON;
      rarity: UNIQUE;
-     special: false;
-     poopen: true
+     special: false
     );
   ];
   
@@ -58,3 +57,4 @@
 
 
  
+
